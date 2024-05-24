@@ -1,0 +1,75 @@
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form1.resources
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
+C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form1.resources
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form2.resources
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form3.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form1.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form2.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form3.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Menu.resources
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form3.resources
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Historinha.resources
+C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Teste.resources
