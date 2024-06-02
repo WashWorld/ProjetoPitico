@@ -117,4 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="lbl_creditos.Text" xml:space="preserve">
+    <value>Jogo criado por alunos do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Cubatão. 
+
+Cenário/Visual : Ester Freitas e Julia Sonali
+
+Personagens: Ester Freitas
+
+História/Enredo: Fernanda Nunes, Nicolly Libânio e Rafaella Rios
+
+Código: Gabriel Rezende e Washington Junior 
+
+Participação especial 
+Prof. Ivaldo 
+…
+
+Jogo baseado na Lei brasileira 13 709/2018 
+             Criado em 2024</value>
+  </data>
 </root>

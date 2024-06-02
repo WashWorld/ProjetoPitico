@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Creditos));
             this.btn_voltar = new System.Windows.Forms.Button();
             this.lbl_titulo = new System.Windows.Forms.Label();
             this.lbl_creditos = new System.Windows.Forms.Label();
@@ -40,7 +41,7 @@
             this.btn_voltar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_voltar.Font = new System.Drawing.Font("MS PGothic", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
             this.btn_voltar.ForeColor = System.Drawing.Color.Orange;
-            this.btn_voltar.Location = new System.Drawing.Point(762, 509);
+            this.btn_voltar.Location = new System.Drawing.Point(780, 426);
             this.btn_voltar.Name = "btn_voltar";
             this.btn_voltar.Size = new System.Drawing.Size(151, 37);
             this.btn_voltar.TabIndex = 0;
@@ -63,24 +64,25 @@
             // lbl_creditos
             // 
             this.lbl_creditos.BackColor = System.Drawing.Color.Transparent;
-            this.lbl_creditos.Font = new System.Drawing.Font("MS PGothic", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
-            this.lbl_creditos.Location = new System.Drawing.Point(220, 156);
+            this.lbl_creditos.Font = new System.Drawing.Font("MS PGothic", 12.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_creditos.ForeColor = System.Drawing.Color.Sienna;
+            this.lbl_creditos.Location = new System.Drawing.Point(269, 151);
             this.lbl_creditos.Name = "lbl_creditos";
-            this.lbl_creditos.Size = new System.Drawing.Size(580, 303);
+            this.lbl_creditos.Size = new System.Drawing.Size(505, 324);
             this.lbl_creditos.TabIndex = 2;
-            this.lbl_creditos.Text = "                 AHHHHHHHHHH\r\n                 Bhhhhhhhhhhhhhhhhh";
+            this.lbl_creditos.Text = resources.GetString("lbl_creditos.Text");
             this.lbl_creditos.Click += new System.EventHandler(this.lbl_creditos_Click);
             // 
             // Creditos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Pjt_Pitico.Properties.Resources.Créditos;
+            this.BackgroundImage = global::Pjt_Pitico.Properties.Resources.menu_creditos;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1049, 628);
+            this.Controls.Add(this.btn_voltar);
             this.Controls.Add(this.lbl_creditos);
             this.Controls.Add(this.lbl_titulo);
-            this.Controls.Add(this.btn_voltar);
             this.DoubleBuffered = true;
             this.Name = "Creditos";
             this.Text = "Créditos";

@@ -118,37 +118,103 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Configurações" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagens\Configurações.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="115 Sem Título_20240416201846" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\115 Sem Título_20240416201846.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagens\Menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Créditos" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Imagens\Créditos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="118 Sem Título_20240422015330" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\118 Sem Título_20240422015330.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="119 Sem Título_20240422035224" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\119 Sem Título_20240422035224.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="120 Sem Título_20240422061144" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\120 Sem Título_20240422061144.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="267464-werecat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\267464-werecat.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="WhatsApp Image 2024-03-30 at 17.29.30" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\WhatsApp Image 2024-03-30 at 17.29.30.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="desktop1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\desktop.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Inicio" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Imagens\Inicio.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="pixil-frame-0 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pixil-frame-0 (1).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pitico andando pra direita" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pitico andando pra direita.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="email1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\email1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Menu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagens\Menu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_opcoes1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menu_opcoes1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pitico andando pra esquerda1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pitico andando pra esquerda1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pitico andando pra esquerda" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pitico andando pra esquerda.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="119 Sem Título_20240422035224" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\119 Sem Título_20240422035224.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Configurações" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagens\Configurações.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pitico walk (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pitico walk (1).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bigshot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bigshot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Créditos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Imagens\Créditos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="267464-werecat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\267464-werecat.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kisspng-arrow-symbol-left-arrow-5ac71892140cd1.9018364915229973940821" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\kisspng-arrow-symbol-left-arrow-5ac71892140cd1.9018364915229973940821.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TCC Grupo 1 Prototipo Jogo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TCC Grupo 1 Prototipo Jogo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="default" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\default.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pitico andando pra direita1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pitico andando pra direita1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="email" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\email.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="erro" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\erro.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pitico andando de costas (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pitico andando de costas (1).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="115 Sem Título_20240416201846" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\115 Sem Título_20240416201846.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_opcoes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menu_opcoes.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="120 Sem Título_20240422061144" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\120 Sem Título_20240422061144.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="desktop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\desktop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\download.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="setinha" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\setinha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2024-03-30 at 17.29.30" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2024-03-30 at 17.29.30.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="118 Sem Título_20240422015330" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\118 Sem Título_20240422015330.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pitico andando pra direita (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pitico andando pra direita (1).gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pitico andando pra esquerda (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pitico andando pra esquerda (1)1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_creditos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menu_creditos.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -1,75 +1,339 @@
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form1.resources
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
-C:\Users\esrafaellawalz\source\repos\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form1.resources
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form2.resources
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
-C:\Users\gabri\Downloads\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form3.resources
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form1.resources
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form2.resources
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form3.resources
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
-C:\Users\gabri\OneDrive\Área de Trabalho\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.SuggestedBindingRedirects.cache
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Menu.resources
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Form3.resources
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Historinha.resources
-C:\Users\aluno\Downloads\teste-20240422T111320Z-001\teste\Pjt_Pitico\Pjt_Pitico\obj\Debug\Pjt_Pitico.Teste.resources
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigAudio.resources
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigVideo.resources
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Menu.resources
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Historinha.resources
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+C:\Users\gabri\Downloads\Segurança Confiscada - V7-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigAudio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigVideo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Menu.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Historinha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V8-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigAudio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigVideo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Menu.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Historinha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V9-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigAudio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigVideo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Menu.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Historinha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V10-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigAudio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigVideo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Menu.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Historinha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V11-20240503T223047Z-001\Segurança Confiscada - V7\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigAudio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigVideo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Menu.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Historinha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.EscolhaFase.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\AngleSharp.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\CliWrap.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\libvideo.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.Asio.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.Core.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.Midi.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.Wasapi.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.WinForms.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.WinMM.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Buffers.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Memory.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Security.AccessControl.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Text.Json.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.ValueTuple.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\YoutubeExplode.Converter.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\YoutubeExplode.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\AngleSharp.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\CliWrap.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.Asio.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.Core.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.Midi.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.Wasapi.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.WinForms.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\NAudio.WinMM.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Buffers.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Memory.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Security.AccessControl.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Text.Json.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\System.ValueTuple.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\YoutubeExplode.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\bin\Debug\YoutubeExplode.Converter.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.Up2Date
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.FormANUNCIO.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Segurança Confiscada - V4\Pjt_Pitico\obj\Debug\Pjt_Pitico.CutscenePiticoPuxado.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\AngleSharp.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\CliWrap.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\libvideo.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.Asio.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.Core.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.Midi.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.Wasapi.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.WinForms.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.WinMM.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Buffers.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Memory.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Security.AccessControl.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Text.Json.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.ValueTuple.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\YoutubeExplode.Converter.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\YoutubeExplode.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\AngleSharp.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\CliWrap.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.Asio.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.Core.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.Midi.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.Wasapi.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.WinForms.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\NAudio.WinMM.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Buffers.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Memory.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Security.AccessControl.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Text.Json.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\System.ValueTuple.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\YoutubeExplode.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\YoutubeExplode.Converter.xml
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigAudio.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigVideo.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.CutscenePiticoPuxado.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.Menu.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.FormANUNCIO.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.EscolhaFase.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.Historinha.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.Up2Date
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+C:\Users\rafae\Downloads\Segurança Confiscada - V13\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe.config
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\Pjt_Pitico.exe
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\Pjt_Pitico.pdb
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\AngleSharp.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\CliWrap.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\libvideo.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.Asio.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.Core.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.Midi.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.Wasapi.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.WinForms.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.WinMM.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Buffers.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Memory.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Security.AccessControl.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Security.Principal.Windows.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Text.Json.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.ValueTuple.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\YoutubeExplode.Converter.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\YoutubeExplode.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\AngleSharp.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\CliWrap.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.Asio.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.Core.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.Midi.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.Wasapi.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.WinForms.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\NAudio.WinMM.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Buffers.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Memory.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Security.AccessControl.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Security.Principal.Windows.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Text.Json.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\System.ValueTuple.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\YoutubeExplode.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\YoutubeExplode.Converter.xml
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\Interop.WMPLib.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.AssemblyReference.cache
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Interop.WMPLib.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\AxInterop.WMPLib.dll
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.ResolveComReference.cache
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigAudio.resources
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.Configuracoes.resources
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.ConfigVideo.resources
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.Creditos.resources
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.CutscenePiticoPuxado.resources
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.Menu.resources
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.FormANUNCIO.resources
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.EscolhaFase.resources
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.Inicio.resources
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.Historinha.resources
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.Properties.Resources.resources
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.GenerateResource.cache
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.CoreCompileInputs.cache
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.csproj.Up2Date
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.exe
+D:\Documents\Repositórios\ProjetoPitico\Segurança Confiscada - V1\Pjt_Pitico\obj\Debug\Pjt_Pitico.pdb
